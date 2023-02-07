@@ -1,2 +1,2 @@
 # Receitas
-Página de receitas
+Página de receitas feita apenas com html.
